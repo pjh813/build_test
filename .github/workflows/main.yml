@@ -2,9 +2,8 @@ name: Flutter Build
 
 on:
   push:
-    branches:
-      
-main
+    branches: 
+      - main
 
 jobs:
   build:
